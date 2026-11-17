@@ -1,6 +1,9 @@
 # Portfolio
 
+This my my first iteration of my personal website using:
 Vite + React 19 + Material UI.
+
+More project to be added shortly as well as links to demo's and downloads for them!
 
 ## Run it
 
