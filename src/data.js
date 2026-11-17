@@ -5,7 +5,7 @@ export const profile = {
   firstName: "ismail's",
   roles: ['Computer Science Senior at Pitt', 'Full-Stack Developer', 'Building Agentic AI Systems'],
   tagline:
-    'I build full-stack web apps and LLM-powered systems by day, to enjoy working out and playing video games at night.',
+    'By day, I build full-stack web apps and LLM-powered systems; by night, I enjoy working out and playing video games.',
   location: 'Pittsburgh, PA',
   email: 'milouaismail71@gmail.com',
   github: 'https://github.com/ishScript',
