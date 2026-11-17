@@ -3,7 +3,7 @@
 This my my first iteration of my personal website using:
 Vite + React 19 + Material UI.
 
-More project to be added shortly as well as links to demo's and downloads for them!
+More projects to be added shortly as well as links to demo's and downloads for them!
 
 ## Run it
 
@@ -19,6 +19,8 @@ npm run build    # production build in dist/
 - `src/theme.js` — colours, fonts, corner radius.
 - `src/components/Contact.jsx` — the form currently fakes sending; swap the `TODO` for a real request.
 - `index.html` — page title.
+
+- FEEL FREE TO REUSE AND MAKE IT YOUR OWN!
 
 ## Deploy
 
