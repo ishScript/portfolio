@@ -47,9 +47,9 @@ export default function Contact() {
     <Section id="contact" eyebrow="Contact" title="Let's talk">
       <Box sx={{ display: 'grid', gap: 6, gridTemplateColumns: { xs: '1fr', md: '1fr 1.2fr' } }}>
         <Typography color="text.secondary" sx={{ fontSize: '1.0625rem' }}>
-          Have a role, a project or just a question? Send a message here or email me directly at{' '}
+          Have a role, a project or just a question? Send a message here or{' '}
           <Box component="a" href={`mailto:${profile.email}`} sx={{ color: 'primary.main' }}>
-            {profile.email}
+            email me directly
           </Box>
           .
         </Typography>
