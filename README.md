@@ -1,6 +1,6 @@
 # Portfolio
 
-This my my first iteration of my personal website (ismailmiloua.com)using:
+This my my first iteration of my personal website (ismailmiloua.com) using:
 Vite + React 19 + Material UI.
 
 More projects to be added shortly as well as links to demo's and downloads for them!
